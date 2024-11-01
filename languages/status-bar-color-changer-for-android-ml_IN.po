@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Status Bar Color Changer For Android\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-19 16:45+0000\n"
+"PO-Revision-Date: 2018-07-19 16:46+0000\n"
+"Last-Translator: admin <joetalkin@gmail.com>\n"
+"Language-Team: Malayalam\n"
+"Language: ml_IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/metaboxfunc.php:19
+msgid "Android Status Bar Color"
+msgstr "ആൻഡ്രോയിഡ് സ്റ്റാറ്റസ് ബാർ കളർ ചന്ജർ"
+
+#: includes/colorsettings.php:11
+msgid "Chrome Color Theme Settings"
+msgstr ""
+
+#: includes/colorsettings.php:14
+msgid "Enter Your Color"
+msgstr ""
+
+#: includes/colorsettings.php:19
+msgid "Save"
+msgstr ""
+
+#: includes/colorsettings.php:27 includes/colorsettings.php:32
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: includes/colorsettings.php:41
+msgid "Changes has been saved. Please refresh."
+msgstr ""
+
+#: includes/colorsettings.php:45
+msgid "Changes not saved. Please refresh."
+msgstr ""
+
+#. Name of the plugin
+msgid "Status Bar Color Changer For Android"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin is meant to change the color of header bar and address bar in "
+"Android."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://jyothisjoy.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jyothis Joy"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jyothisjoy.com"
+msgstr ""
